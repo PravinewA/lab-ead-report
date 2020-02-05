@@ -4,11 +4,11 @@ A *Git Workflow* is a recipe or recommendation for how to use Git to accomplish 
 
 ## Some of the characteristics of git
 
-* Strong support for non-linear development:
+* **Strong support for non-linear development:**
     Non-linear development allows yourself to work on different parts of a system concurrently. Thus you don’t have to build an app in a specific order.
-* Distributed development:
+* **Distributed development:**
     Distributed development allows for multiple people to be working on the same project at the same time. Without version control you would not be able to work on the same file as someone else as one of your changes would overwrite the other’s code when committing.
-* Safeguards:
+* **Safeguards:**
     Everything saved in git is accessible at some later point. **Even if you delete it!!** There is always a record of your save history. Thus it is tough to corrupt your code whether it occurs accidentally or maliciously.
 
 ![Image of git](https://github.com/PravinewA/lab-ead-report/blob/master/lab1/img/git.png)
@@ -30,10 +30,10 @@ The git command git commit takes all changes in the Staging Area, wraps them tog
 
 ## List of Commands used
 
-* git init → Create a new git repository
-* git add “newfile” → Add a new file to your staging area
-* git commit → Adds staged changes to your local repository
-* git push “remote” “ branch” → Push local repository changes to your hosting service
-* git pull “remote” “ branch” → pull code from your hosting service to your local directory
-* git status → Show which files are being tracked v. untracked
-* git log → Show recent commit history
+* **git init** → Create a new git repository
+* **git add “newfile”** → Add a new file to your staging area
+* **git commit** → Adds staged changes to your local repository
+* **git push “remote” “ branch”** → Push local repository changes to your hosting service
+* **git pull “remote” “ branch”** → pull code from your hosting service to your local directory
+* **git status** → Show which files are being tracked v. untracked
+* **git log** → Show recent commit history
