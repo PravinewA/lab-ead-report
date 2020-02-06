@@ -1,4 +1,4 @@
-# Lab 2
+# Lab 2 Theory
 
 # Pull-Request Workflow for Code Contribution
 
