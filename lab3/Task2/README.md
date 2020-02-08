@@ -7,4 +7,4 @@ Factory pattern is one of the most used design patterns in Java. This type of de
 In Factory pattern, we create object without exposing the creation logic to the client and refer to newly created object using a common interface.
 
 
-![factory image](https://github.com/PravinewA/lab-ead-report/blob/master/lab3/task2/img/factorypattern.png)
+![factory image](https://github.com/PravinewA/lab-ead-report/blob/master/lab3/Task2/img/factorypattern.png)
